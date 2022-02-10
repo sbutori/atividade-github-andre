@@ -25,10 +25,23 @@ __meta__ = {
 
 [node name="Button" type="Button" parent="."]
 margin_left = 37.0
-margin_top = 135.0
+margin_top = 185.0
 margin_right = 123.0
-margin_bottom = 155.0
+margin_bottom = 205.0
 text = "Incrementa"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Stefano" type="Label" parent="."]
+margin_left = 203.0
+margin_top = 45.0
+margin_right = 281.0
+margin_bottom = 93.0
+text = "Stefano
+
+Olá, Mundo!"
+align = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
